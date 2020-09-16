@@ -1,5 +1,5 @@
 def my_hash_creator(key, value)
-  key = name
+  key = name:
    {  name: value }
 end
 
